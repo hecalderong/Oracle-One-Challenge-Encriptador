@@ -1,6 +1,7 @@
+<img src="https://github.com/hecalderong/Oracle-One-Challenge-Encriptador/blob/main/image/share_image.1647533644.jpg">
 # Challenge Oracle One - Alura Latam- Encriptador TEXTO
 
-CHALLENGE ORACLE ONE | Alura Challenge - ENCRIPTADOR DE TEXTO
+<h1 align="left">CHALLENGE ORACLE ONE | Alura Challenge - ENCRIPTADOR DE TEXTO</h1>
 https://github.com/hecalderong/Oracle-One-Challenge-Encriptador
 
 Challenge realizado sobre el módulo _Principiante en Programación One_ realizado en la plataforma de **Alura Latam**, para el proyecto **Oracle One**
